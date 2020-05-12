@@ -1,0 +1,2 @@
+# Django Debug VS Code
+
